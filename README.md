@@ -1,6 +1,6 @@
 # Hi, I'm Arij Hajjaji 👋
 
-**Ingénieur en informatique junior, passionné par le développement web full-stack et DevOps.**
+**Ingénieur en informatique junior, passionné par le développement web full-stack et DevOps.**  
 Je suis motivé par les défis techniques et l’innovation, avec une expérience sur des projets .NET, Spring Boot et Angular.
 
 📍 Tunis | 📫 arijhajjaji2@gmail.com  
@@ -11,13 +11,13 @@ Je suis motivé par les défis techniques et l’innovation, avec une expérienc
 ## 💻 Tech Stack
 
 ### 🧠 Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### 🧩 Frameworks & Libraries
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -46,7 +46,6 @@ Je suis motivé par les défis techniques et l’innovation, avec une expérienc
 ![Nexus](https://img.shields.io/badge/Nexus-1B1C1E?style=for-the-badge&logo=sonatype&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🧪 Testing
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
@@ -63,7 +62,7 @@ Je suis motivé par les défis techniques et l’innovation, avec une expérienc
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Projects
 
 ### PFE : Plateforme de recrutement
 - **Tech** : .NET 8, Razor, C#, MySQL, HTML, CSS, JS, DevOps (Docker, Jenkins, Prometheus, Grafana)  
@@ -78,3 +77,17 @@ Je suis motivé par les défis techniques et l’innovation, avec une expérienc
 ## 📊 GitHub Stats
 
 ![Arij’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Arijhajjaji22&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arijhajjaji22&layout=compact&theme=radical)
+
+---
+
+## 💡 Fun Fact
+
+_"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+
+---
+
+## 📫 Contact Me
+
+- Email: arijhajjaji2@gmail.com  
+- LinkedIn: [linkedin.com/in/arij-hajjaji](https://linkedin.com/in/arij-hajjaji)
