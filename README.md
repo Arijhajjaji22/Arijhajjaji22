@@ -79,21 +79,24 @@ Je suis motivé par les défis techniques et l’innovation, avec une expérienc
 
 ---
 
+---
+
 ## 🎓 Certifications
 
 <a href="https://drive.google.com/file/d/1LEWb8QeQbHF3O3VKDNEWBymzuoFJM9SL/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Spring%20%2F%20Angular-CrocoCoder-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Voir%20le%20certificat-Spring%20%2F%20Angular-1E90FF?style=for-the-badge&logo=spring&logoColor=white" />
 </a>
 
 <a href="https://drive.google.com/file/d/1YDb5Vo-LWGmVt-jaIbNRnEnxF_ecwzcc/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/AI%20Predictive%20Maintenance-ESPRIT-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Voir%20le%20certificat-AI%20Predictive%20Maintenance-1E90FF?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </a>
 
 <a href="https://drive.google.com/file/d/19ROoMFbfwOJuM-21tdXH2cLAxo83Oqea/view?usp=drive_link" target="_blank">
-  <img src="https://img.shields.io/badge/AI%20Anomaly%20Detection-ESPRIT-4A90E2?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Voir%20le%20certificat-AI%20Anomaly%20Detection-1E90FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </a>
 
 ---
+
 
 
 
