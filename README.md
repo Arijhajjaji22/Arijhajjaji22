@@ -1,7 +1,7 @@
 # Hi, I'm Arij Hajjaji 👋
 
 **Ingénieur en informatique junior, passionné par le développement web full-stack et DevOps.**
-Je suis motivé par les défis techniques et l’innovation, avec une expérience sur des projets .NET, Spring Boot et Angular .
+Je suis motivé par les défis techniques et l’innovation, avec une expérience sur des projets .NET, Spring Boot et Angular.
 
 📍 Tunis | 📫 arijhajjaji2@gmail.com  
 [LinkedIn](https://linkedin.com/in/arij-hajjaji) | [GitHub](https://github.com/Arijhajjaji22)
@@ -67,15 +67,11 @@ Je suis motivé par les défis techniques et l’innovation, avec une expérienc
 
 ### PFE : Plateforme de recrutement
 - **Tech** : .NET 8, Razor, C#, MySQL, HTML, CSS, JS, DevOps (Docker, Jenkins, Prometheus, Grafana)  
-- [Repository](https://github.com/Arijhajjaji22/...) | [Demo Video](#)
+- [Repository](https://github.com/Arijhajjaji22/RecruitmentPlatform-PFE) | [Demo Video](https://drive.google.com/file/d/1x6rwel4OfuMKxHB58Nx5pQYSKrzvLA1E/view?usp=sharing)
 
 ### Gestion scolaire digitalisée
 - **Tech** : .NET 8, C#, SQL Server, Razor, HTML, CSS, JS, Git  
-- [Repository](https://github.com/Arijhajjaji22/...) | [Demo Video](#)
-
-### Buy-Now : Application e-commerce
-- **Tech** : Node.js, Spring Boot, Angular, Docker, MySQL  
-- [Repository](https://github.com/Arijhajjaji22/...) | [Demo Video](#)
+- [Repository](https://github.com/Arijhajjaji22/SchoolManagementSystem)
 
 ---
 
