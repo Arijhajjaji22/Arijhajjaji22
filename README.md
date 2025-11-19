@@ -1,6 +1,8 @@
 # Hi, I'm Arij Hajjaji 👋
 
-![Coding GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
+
 
 
 **Ingénieur en informatique junior, passionné par le développement web full-stack et DevOps.**  
