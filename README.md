@@ -1,7 +1,5 @@
- 
-# Hi, I'm Arij Hajjaji 👋  
-![Hey GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1bDNucHdlczBxYmxmajg2bmRxeHpsMHM0MGs0ZGNncmQzODZ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy) 
-
+Hi, I'm Arij Hajjaji 👋  
+![Hey GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1bDNucHdlczBxYmxmajg2bmRxeHpsMHM0MGs0ZGNncmQzODZ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif)
 
 
 
@@ -100,7 +98,7 @@ Je suis motivé par les défis techniques et l’innovation, avec une expérienc
 ---
 
 ## 👨‍💻 Developer GIF
-![Developer GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtnZnUzaWNmbjdpeGo4aXNzNnk2MGU4dzR5aTJxZHBjZnFza2NxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy)
+![Developer GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtnZnUzaWNmbjdpeGo4aXNzNnk2MGU4dzR5aTJxZHBjZnFza2NxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 
 ---
 ## 🧠 Soft Skills
