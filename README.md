@@ -77,7 +77,7 @@ Je suis motivé par les défis techniques et l’innovation, avec une expérienc
 
 ## 🎓 Certifications
 
-<a href="https://drive.google.com/file/d/1LEWb8QeQbHF3O3VKDNEWBymzuoFJM9SL/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1Z4R1AFbQzGYGuSAlRgqaMeTVLmdxE-fk/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Spring%20%2F%20Angular-Voir%20le%20certif-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=6DB33F&color=808080" />
 </a>
 
