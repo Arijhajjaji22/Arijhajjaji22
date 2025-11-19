@@ -1,10 +1,16 @@
 # Hi, I'm Arij Hajjaji 👋
 
-**Ingénieur en informatique junior, passionné par le développement web full-stack et DevOps.**
+![Coding GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+
+**Ingénieur en informatique junior, passionné par le développement web full-stack et DevOps.**  
 Je suis motivé par les défis techniques et l’innovation, avec une expérience sur des projets .NET, Spring Boot et Angular.
 
-📍 Tunis | 📫 arijhajjaji2@gmail.com  
-[LinkedIn](https://linkedin.com/in/arij-hajjaji) | [GitHub](https://github.com/Arijhajjaji22)
+📍 Tunis  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arij-hajjaji)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arijhajjaji22)
+[![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arijhajjaji2@gmail.com)
+
 
 ---
 
@@ -90,12 +96,15 @@ Je suis motivé par les défis techniques et l’innovation, avec une expérienc
 </a>
 
 ---
+## 🧠 Soft Skills
+- 💡 Esprit analytique et sens du détail
+- 📚 Forte capacité d’apprentissage
+- 🤝 Travail d’équipe & communication
+- 🛠️ Résolution de problèmes
+- 🚀 Approche orientée résultats
+---
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arijhajjaji22&show_icons=true&theme=radical)
 
-
-
-
-## 📊 GitHub Stats
-
-![Arij’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Arijhajjaji22&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arijhajjaji22&layout=compact&theme=radical)
