@@ -1,7 +1,6 @@
  
-Hi, I'm Arij Hajjaji 👋  
-![Hey GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1bDNucHdlczBxYmxmajg2bmRxeHpsMHM0MGs0ZGNncmQzODZ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif)
-
+# Hi, I'm Arij Hajjaji 👋  
+![Hey GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1bDNucHdlczBxYmxmajg2bmRxeHpsMHM0MGs0ZGNncmQzODZ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy) 
 
 
 
@@ -98,6 +97,10 @@ Je suis motivé par les défis techniques et l’innovation, avec une expérienc
 <a href="https://drive.google.com/file/d/19ROoMFbfwOJuM-21tdXH2cLAxo83Oqea/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/AI%20Anomaly%20Detection-Voir%20le%20certif-4A90E2?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=4A90E2&color=808080" />
 </a>
+---
+
+## 👨‍💻 Developer GIF
+![Developer GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtnZnUzaWNmbjdpeGo4aXNzNnk2MGU4dzR5aTJxZHBjZnFza2NxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy)
 
 ---
 ## 🧠 Soft Skills
