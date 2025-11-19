@@ -1,7 +1,7 @@
 # Hi, I'm Arij Hajjaji 👋
 
 **Ingénieur en informatique junior, passionné par le développement web full-stack et DevOps.**
-Je suis motivé par les défis techniques et l’innovation, avec une expérience sur des projets .NET, Spring Boot, Angular et Node.js.
+Je suis motivé par les défis techniques et l’innovation, avec une expérience sur des projets .NET, Spring Boot et Angular .
 
 📍 Tunis | 📫 arijhajjaji2@gmail.com  
 [LinkedIn](https://linkedin.com/in/arij-hajjaji) | [GitHub](https://github.com/Arijhajjaji22)
