@@ -75,6 +75,14 @@ Je suis motivé par les défis techniques et l’innovation, avec une expérienc
 
 ---
 
+## 🎓 Certifications
+
+![Spring - Angular](https://img.shields.io/badge/Spring--Angular-CrocoCoder-blue?style=for-the-badge&logo=angular&logoColor=white) [View Certificate](https://drive.google.com/file/d/1Z4R1AFbQzGYGuSAlRgqaMeTVLmdxE-fk/view?usp=sharing)  
+![AI Predictive Maintenance](https://img.shields.io/badge/AI--PredictiveMaintenance-ESPRIT-green?style=for-the-badge&logo=python&logoColor=white) [View Certificate](https://drive.google.com/file/d/1YDb5Vo-LWGmVt-jaIbNRnEnxF_ecwzcc/view?usp=sharing)  
+![AI Anomaly Detection](https://img.shields.io/badge/AI--AnomalyDetection-ESPRIT-red?style=for-the-badge&logo=python&logoColor=white) [View Certificate](https://drive.google.com/file/d/19ROoMFbfwOJuM-21tdXH2cLAxo83Oqea/view?usp=drive_link)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Arij’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Arijhajjaji22&show_icons=true&theme=radical)
