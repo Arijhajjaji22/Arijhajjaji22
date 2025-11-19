@@ -1,5 +1,5 @@
 Hi, I'm Arij Hajjaji 👋  
-![Hey GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![Hey GIF]([https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1bDNucHdlczBxYmxmajg2bmRxeHpsMHM0MGs0ZGNncmQzODZ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif))
 
 
 
@@ -109,5 +109,3 @@ Je suis motivé par les défis techniques et l’innovation, avec une expérienc
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arijhajjaji22&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arijhajjaji22&layout=compact&theme=radical)
