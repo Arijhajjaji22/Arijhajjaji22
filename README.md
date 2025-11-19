@@ -1,7 +1,5 @@
-# Hi, I'm Arij Hajjaji 👋
-
-![Coding GIF](https://media.giphy.com/media/XhfssNqzUwfeE/giphy.gif)
-
+Hi, I'm Arij Hajjaji 👋  
+![Hey GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 
 
