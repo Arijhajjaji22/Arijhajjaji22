@@ -111,6 +111,5 @@ Motivée par les défis techniques et l'innovation, avec une expérience sur des
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arijhajjaji22&show_icons=true&theme=radical)
 
 ![Developer GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtnZnUzaWNmbjdpeGo4aXNzNnk2MGU4dzR5aTJxZHBjZnFza2NxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
