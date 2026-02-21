@@ -1,18 +1,14 @@
-Hi, I'm Arij Hajjaji 👋  
+# Hi, I'm Arij Hajjaji 👋
 
 ![Hey GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1bDNucHdlczBxYmxmajg2bmRxeHpsMHM0MGs0ZGNncmQzODZ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif)
 
-
-
-**Ingénieur en informatique junior, passionné par le développement web full-stack et DevOps.**  
-Je suis motivé par les défis techniques et l’innovation, avec une expérience sur des projets .NET, Spring Boot et Angular.
+**Ingénieure en informatique, passionnée par le développement web full-stack et DevOps.**  
+Motivée par les défis techniques et l'innovation, avec une expérience sur des projets .NET, Spring Boot et Angular.
 
 📍 Tunis | 📫 arijhajjaji2@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arij-hajjaji)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arijhajjaji22)
-
-
 
 ---
 
@@ -55,6 +51,7 @@ Je suis motivé par les défis techniques et l’innovation, avec une expérienc
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ### 🧪 Testing
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
@@ -73,12 +70,17 @@ Je suis motivé par les défis techniques et l’innovation, avec une expérienc
 
 ## 📂 Projects
 
-### PFE : Plateforme de recrutement
-- **Tech** : .NET 8, Razor, C#, MySQL, HTML, CSS, JS, DevOps (Docker, Jenkins, Prometheus, Grafana)  
+### 🚀 Kafka with Spring Boot Reactive WebFlux *(nouveau)*
+- **Tech** : Java 17, Spring Boot 3.x, Apache Kafka 4.x, WebFlux, Maven
+- Messaging platform with producer/consumer architecture and real-time Wikimedia stream processing
+- [Repository](https://github.com/Arijhajjaji22/Kafka-with-Spring-Boot-Reactive-WebFlux-)
+
+### 🏢 PFE : Plateforme de recrutement
+- **Tech** : .NET 8, Razor, C#, MySQL, HTML, CSS, JS, DevOps (Docker, Jenkins, Prometheus, Grafana)
 - [Repository](https://github.com/Arijhajjaji22/RecruitmentPlatform-PFE) | [Demo Video](https://drive.google.com/file/d/1x6rwel4OfuMKxHB58Nx5pQYSKrzvLA1E/view?usp=sharing)
 
-### Gestion scolaire digitalisée
-- **Tech** : .NET 8, C#, SQL Server, Razor, HTML, CSS, JS, Git  
+### 🏫 Gestion scolaire digitalisée
+- **Tech** : .NET 8, C#, SQL Server, Razor, HTML, CSS, JS, Git
 - [Repository](https://github.com/Arijhajjaji22/SchoolManagementSystem)
 
 ---
@@ -97,18 +99,18 @@ Je suis motivé par les défis techniques et l’innovation, avec une expérienc
   <img src="https://img.shields.io/badge/AI%20Anomaly%20Detection-Voir%20le%20certif-4A90E2?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=4A90E2&color=808080" />
 </a>
 
-
-![Developer GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtnZnUzaWNmbjdpeGo4aXNzNnk2MGU4dzR5aTJxZHBjZnFza2NxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
-
-
 ---
+
 ## 🧠 Soft Skills
+
 - 💡 Esprit analytique et sens du détail
-- 📚 Forte capacité d’apprentissage
-- 🤝 Travail d’équipe & communication
+- 📚 Forte capacité d'apprentissage
+- 🤝 Travail d'équipe & communication
 - 🛠️ Résolution de problèmes
 - 🚀 Approche orientée résultats
+
 ---
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arijhajjaji22&show_icons=true&theme=radical)
+
+![Developer GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtnZnUzaWNmbjdpeGo4aXNzNnk2MGU4dzR5aTJxZHBjZnFza2NxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
