@@ -132,7 +132,7 @@ const arij = {
 <div align="center">
 
 ### 🤖 Aura: Intelligent AI Assistant
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arijhajjaji22&repo=aura-chatbot&theme=tokyonight)](https://github.com/Arijhajjaji22/aura-chatbot)
+(https://github.com/Arijhajjaji22/AI-Assistant-Pro)
 
 **Full-stack AI assistant with microservices architecture**
 - 🔐 RSA JWT Authentication & Spring Security
