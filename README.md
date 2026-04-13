@@ -354,11 +354,15 @@ class DeveloperMindset {
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:arijhajjaji2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-arijhajjaji2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portfolio-arijhajjaji">
+  <a href="https://portfolio-arijhajjajivercelapp.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Check_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  📍 <b>Tunis, Tunisia</b> 
 </p>
 
 <p align="center">
@@ -370,5 +374,7 @@ class DeveloperMindset {
 ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ### Show some ❤️ by starring some of my repositories!
+
+
 
 </div>
