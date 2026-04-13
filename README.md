@@ -20,7 +20,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Arijhajjaji22&style=for-the-badge&color=blueviolet&label=Profile+Views)
 
-**📍 Location:** Tunis, Tunisia | **📞 Phone:** +216 51 592 864
+**📍 Location:** Tunis, Tunisia 
 
 </div>
 
