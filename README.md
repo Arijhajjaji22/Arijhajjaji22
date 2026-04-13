@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/arij-hajjaji"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:arijhajjaji2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://portfolio-arijhajjaji"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="[https://portfolio-arijhajjaji](https://portfolio-arijhajjajivercelapp.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Arijhajjaji22&style=for-the-badge&color=blueviolet"/>
 </p>
 
@@ -147,7 +147,7 @@ const arij = {
 ---
 
 ### 📋 TaskFlow: Real-Time Collaborative Kanban
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arijhajjaji22&repo=Taskflow-n8n&theme=tokyonight)](https://github.com/Arijhajjaji22/Taskflow-n8n)
+(https://github.com/Arijhajjaji22/Taskflow-n8n)
 
 **Event-driven Kanban board with real-time collaboration**
 - 🔒 OAuth2/Keycloak Authentication
@@ -162,7 +162,7 @@ const arij = {
 ---
 
 ### 💻 AI Code Assistant Pro — VS Code Extension
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arijhajjaji22&repo=AI-Assistant-Pro&theme=tokyonight)](https://github.com/Arijhajjaji22/AI-Assistant-Pro)
+(https://github.com/Arijhajjaji22/aura-chatbot)
 
 
 **VS Code plugin for intelligent code analysis & refactoring**
@@ -178,7 +178,7 @@ const arij = {
 ---
 
 ### 🏢 Enterprise Recruitment Platform
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arijhajjaji22&repo=RecruitmentPlatform-PFE&theme=tokyonight)](https://github.com/Arijhajjaji22/RecruitmentPlatform-PFE)
+(https://github.com/Arijhajjaji22/RecruitmentPlatform-PFE)
 
 **Full-featured recruitment platform with automated testing**
 - ✅ Online Assessments & Instant Results
@@ -257,21 +257,6 @@ gantt
 </table>
 
 ---
-
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-```text
-Java           12 hrs 30 mins  ███████████░░░░░░░   45.2%
-TypeScript     8 hrs 15 mins   ███████▒░░░░░░░░░░   29.8%
-C#             4 hrs 20 mins   ████░░░░░░░░░░░░░░   15.7%
-Docker         1 hr 30 mins    █▒░░░░░░░░░░░░░░░░    5.4%
-YAML           1 hr 5 mins     █░░░░░░░░░░░░░░░░░    3.9%
-```
-<!--END_SECTION:waka-->
-
----
-
 ## 🎯 Current Focus
 
 <table>
@@ -333,7 +318,7 @@ class DeveloperMindset {
 <br>
 
 **💻 Hardware:**
-- Processor: Intel Core i7
+- Processor: Intel Core i5
 - RAM: 32GB DDR4
 - SSD: 1TB NVMe
 
@@ -349,7 +334,7 @@ class DeveloperMindset {
 - Docker Extension
 - GitLens
 - REST Client
-- Prettier
+
 
 </details>
 
