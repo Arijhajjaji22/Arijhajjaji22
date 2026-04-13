@@ -1,196 +1,398 @@
 # Hi, I'm Arij Hajjaji 👋
 
-![Hey GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1bDNucHdlczBxYmxmajg2bmRxeHpsMHM0MGs0ZGNncmQzODZ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif)
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;Spring+Boot+%7C+Angular+%7C+.NET;AI+%26+Microservices+Enthusiast;Building+Scalable+Solutions)
 
-**Full Stack Software Engineer | Spring Boot • Angular • .NET • AI Enthusiast**  
-Specialized in designing microservices architectures and deploying containerized applications. Focused on delivering clean, scalable, and high-performance solutions with expertise in enterprise ERP systems, recruitment platforms, and AI-powered applications.
+</div>
 
-📍 Tunis, Tunisia | 📫 arijhajjaji2@gmail.com | 📞 +216 51 592 864
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1bDNucHdlczBxYmxmajg2bmRxeHpsMHM0MGs0ZGNncmQzODZ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="400"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arij-hajjaji)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arijhajjaji22)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-arijhajjaji)
-
----
-
-## 💼 Professional Experience
-
-### 🔹 Full Stack Engineer (Spring & Angular) | Hosinox Company
-**January 2026 – Present**
-- Developed and maintained an enterprise **ERP system** using Spring Boot and Angular
-- Translated functional requirements into robust technical solutions with product and business teams
-- **Tech Stack:** Spring Boot, Angular, SQL Server, JWT, WebSockets, Elasticsearch, Liquibase, SonarQube, Docker, Git
-
-### 🔹 Full Stack .NET Engineer | Biram Group
-**March 2025 – July 2025**
-- Architected a **school management web application** with online payment integration
-- Automated attendance tracking and grade management, improving workflow efficiency
-- **Tech Stack:** .NET 8, C#, Blazor, GraphQL, MediatR, Entity Framework Core, .NET Identity, SignalR, LINQ, SQL Server, Stripe, Docker, Git
-
-### 🔹 Graduation Project Internship (PFE) | Innov-Alliance-Tech
-**February 2024 – August 2024**
-- Built a comprehensive **recruitment platform** with automated testing and application processing
-- Implemented online candidate assessments with instant results
-- **Tech Stack:** .NET 8, C#, Razor, REST API, Entity Framework Core, .NET Identity, SignalR, MySQL, XUnit, Jenkins, Docker, Prometheus, Grafana, IIS, Git
-
-### 🔹 Software Engineer Intern | PROXI WEB
-**July 2023 – September 2023**
-- Developed a **CRM application** with Ethereum Smart Contracts integration
-- Automated payments via Escrow system with milestone-based releases
-- **Tech Stack:** Solidity, Hardhat, Ethers.js, MetaMask, React, Tailwind CSS, Node.js, Express, MongoDB, JWT
+<p align="center">
+  <a href="https://linkedin.com/in/arij-hajjaji"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:arijhajjaji2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://portfolio-arijhajjaji"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Arijhajjaji22&style=for-the-badge&color=blueviolet"/>
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 🚀 About Me
 
-### 🧠 Programming Languages
+```javascript
+const arij = {
+    location: "Tunis, Tunisia 🇹🇳",
+    currentRole: "Full Stack Engineer @ Hosinox Company",
+    expertise: ["Microservices Architecture", "DevOps", "AI Integration"],
+    currentlyWorking: "Enterprise ERP Systems with Spring Boot & Angular",
+    currentlyLearning: ["Spring AI", "Advanced Kubernetes", "System Design"],
+    funFact: "I automate everything... even my coffee breaks ☕",
+    lifePhilosophy: "Clean code is not written by following a set of rules. " +
+                     "You don't become a software craftsman by learning a list of heuristics."
+};
+```
+
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtnZnUzaWNmbjdpeGo4aXNzNnk2MGU4dzR5aTJxZHBjZnFza2NxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+
+### 💡 What I Do
+
+- 🏗️ Build **scalable microservices** architectures
+- ⚡ Develop **full-stack applications** with modern frameworks
+- 🤖 Integrate **AI-powered features** into business applications
+- 🐳 Design **containerized deployments** with Docker & Kubernetes
+- 📊 Implement **CI/CD pipelines** for automated workflows
+- 🔒 Ensure **security best practices** in every project
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br>
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-### 🧩 Frameworks & Technologies
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+</details>
+
+<details open>
+<summary><b>🎨 Frontend & Backend</b></summary>
+<br>
+
+**Backend:**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Frontend:**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🗄️ Databases
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Caching</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-### 🛠️ DevOps & CI/CD
+</details>
+
+<details open>
+<summary><b>🐳 DevOps & Cloud</b></summary>
+<br>
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4F5B93?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Nexus](https://img.shields.io/badge/Nexus-1B1C1E?style=for-the-badge&logo=sonatype&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 🧪 Testing & Quality
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-00DFA2?style=for-the-badge)
-![XUnit](https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+</details>
 
-### 🧰 Tools & Collaboration
+<details open>
+<summary><b>🔧 Tools & Platforms</b></summary>
+<br>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+</details>
 
 ---
 
-## 📂 Featured Projects
+## 🎯 Featured Projects
 
-### 🤖 Aura: Intelligent AI Assistant *(2026)*
-- **Full-stack AI assistant** with microservices architecture, RSA JWT authentication, PDF RAG, image analysis, and real-time web scraping
-- Implemented **Redis caching**, Nginx reverse proxy, and automated CI/CD via GitHub Actions
-- **Tech:** Spring Boot 3, Spring AI, Google Gemini API, Spring Security, Spring Cloud Gateway, Netflix Eureka, Angular, PostgreSQL, PGVector, Redis, Nginx, Docker, GitHub Actions
-- [Repository](https://github.com/Arijhajjaji22/aura-ai-assistant)
+<div align="center">
 
-### 📋 TaskFlow: Real-Time Collaborative Kanban *(2026)*
-- **Collaborative Kanban application** with OAuth2/Keycloak authentication, GraphQL API, WebSocket real-time notifications
-- Event-driven architecture with **Apache Kafka**, workflow automation with n8n, drag-and-drop interface
-- **Tech:** Spring Boot 3, GraphQL, WebSocket, n8n, Kafka, Keycloak, Angular, PostgreSQL, Flyway, Docker, JUnit 5, Vitest
-- [Repository](https://github.com/Arijhajjaji22/taskflow-kanban)
+### 🤖 Aura: Intelligent AI Assistant
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arijhajjaji22&repo=aura-ai-assistant&theme=tokyonight)](https://github.com/Arijhajjaji22/aura-ai-assistant)
 
-### 💻 AI Code Assistant Pro — VS Code Extension *(2026)*
-- **VS Code plugin** for real-time code analysis, bug detection, security vulnerability scanning, and automated refactoring
-- Integrated **Google Gemini API**, Tree-sitter AST parsing, Snyk API, OWASP Top 10 checks, and Git integration
-- **Tech:** Node.js, VS Code Extension API, Google Gemini API, Tree-sitter AST, Snyk API, OWASP Top 10, NodeGit, WebView
-- [Repository](https://github.com/Arijhajjaji22/ai-code-assistant-vscode)
+**Full-stack AI assistant with microservices architecture**
+- 🔐 RSA JWT Authentication & Spring Security
+- 📄 PDF RAG (Retrieval-Augmented Generation)
+- 🖼️ Image Analysis with Google Gemini API
+- 🌐 Real-time Web Scraping
+- ⚡ Redis Caching & Nginx Reverse Proxy
+- 🚀 Automated CI/CD via GitHub Actions
 
-### 🏢 Recruitment Platform — Graduation Project *(2024)*
-- **Full-featured recruitment platform** with automated test management and application processing
-- Enabled candidates to submit applications, complete online tests, and receive instant results
-- **Tech:** .NET 8, C#, Razor, REST API, Entity Framework Core, .NET Identity, SignalR, MySQL, XUnit, Jenkins, Docker, Prometheus, Grafana, IIS, Git
-- [Repository](https://github.com/Arijhajjaji22/RecruitmentPlatform-PFE) | [Demo Video](https://drive.google.com/file/d/1x6rwel4OfuMKxHB58Nx5pQYSKrzvLA1E/view?usp=sharing)
-
-### 🏫 School Management System *(2025)*
-- **Digitalized school management web application** with online payment system for parents
-- Automated attendance tracking and grade management
-- **Tech:** .NET 8, C#, Blazor, GraphQL, MediatR, Entity Framework Core, .NET Identity, SignalR, SQL Server, Stripe, Docker, Git
-- [Repository](https://github.com/Arijhajjaji22/SchoolManagementSystem)
-
-### 🔧 DevOps Project *(2024)*
-- **CI/CD pipeline** to automate application deployments and testing
-- **Tech:** Spring Boot, Angular 16, Jenkins, SonarQube, Nexus, Prometheus, Grafana, Docker
-- [Repository](https://github.com/Arijhajjaji22/devops-pipeline)
+**Tech:** `Spring Boot 3` `Spring AI` `Angular` `PostgreSQL` `PGVector` `Redis` `Docker` `Nginx`
 
 ---
 
-## 🎓 Education
+### 📋 TaskFlow: Real-Time Collaborative Kanban
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arijhajjaji22&repo=taskflow-kanban&theme=tokyonight)](https://github.com/Arijhajjaji22/taskflow-kanban)
 
-**🎓 Software Engineering Degree**  
-*École Supérieure Privée d'Ingénierie et de Technologies (ESPRIT)* | 2021 – 2024
+**Event-driven Kanban board with real-time collaboration**
+- 🔒 OAuth2/Keycloak Authentication
+- 🔄 GraphQL API for flexible queries
+- 📡 WebSocket/STOMP Real-time Notifications
+- 🤖 n8n Workflow Automation
+- 📨 Apache Kafka Event Streaming
+- 🎨 Drag-and-Drop Interface
 
-**📐 MPSI Preparatory Cycle**  
-*Université Libre de Tunis (ULT)* | 2020
-
-**🎓 Technical Baccalaureate**  
-*Lycée Technique de Médenine* | 2019
-
----
-
-## 🏆 Certifications
-
-<a href="https://drive.google.com/file/d/1Z4R1AFbQzGYGuSAlRgqaMeTVLmdxE-fk/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Spring%20%2F%20Angular-View%20Certificate-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=6DB33F&color=808080" />
-</a>
-
-<a href="https://drive.google.com/file/d/1YDb5Vo-LWGmVt-jaIbNRnEnxF_ecwzcc/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/AI%20Predictive%20Maintenance-View%20Certificate-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=FF6F00&color=808080" />
-</a>
-
-<a href="https://drive.google.com/file/d/19ROoMFbfwOJuM-21tdXH2cLAxo83Oqea/view?usp=drive_link" target="_blank">
-  <img src="https://img.shields.io/badge/AI%20Anomaly%20Detection-View%20Certificate-4A90E2?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=4A90E2&color=808080" />
-</a>
+**Tech:** `Spring Boot 3` `GraphQL` `Kafka` `Keycloak` `Angular` `PostgreSQL` `Flyway`
 
 ---
 
-## 🧠 Soft Skills
+### 💻 AI Code Assistant Pro — VS Code Extension
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arijhajjaji22&repo=ai-code-assistant-vscode&theme=tokyonight)](https://github.com/Arijhajjaji22/ai-code-assistant-vscode)
 
-- 🛠️ **Problem Solving** — Analytical approach to complex technical challenges
-- 🔄 **Adaptability** — Quick learner, comfortable with new technologies
-- 🤝 **Team Collaboration** — Effective communication with cross-functional teams
-- 🎨 **Creativity** — Innovative solutions for technical and business problems
-- 📊 **Detail-Oriented** — Focus on clean, scalable, high-performance code
+**VS Code plugin for intelligent code analysis & refactoring**
+- 🐛 Real-time Bug Detection
+- 🔒 Security Vulnerability Scanning (OWASP Top 10)
+- 🌳 AST Parsing with Tree-sitter
+- 🤖 AI-Powered Code Suggestions
+- ♻️ Automated Refactoring
+- 🔗 Git Integration
 
----
-
-## 🌍 Languages
-
-- 🇹🇳 **Arabic:** Native
-- 🇫🇷 **French:** Intermediate (B2)
-- 🇬🇧 **English:** Intermediate (B2)
+**Tech:** `Node.js` `VS Code API` `Google Gemini` `Tree-sitter` `Snyk API` `NodeGit`
 
 ---
 
-## 📊 GitHub Stats
+### 🏢 Enterprise Recruitment Platform
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arijhajjaji22&repo=RecruitmentPlatform-PFE&theme=tokyonight)](https://github.com/Arijhajjaji22/RecruitmentPlatform-PFE)
 
-![Arij's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arijhajjaji22&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arijhajjaji22&layout=compact&theme=radical)
+**Full-featured recruitment platform with automated testing**
+- ✅ Online Assessments & Instant Results
+- 📊 Automated Application Processing
+- 📈 CI/CD Pipeline with Monitoring
+- 🔐 JWT Authentication & Authorization
+- 📧 Real-time Notifications with SignalR
+
+**Tech:** `.NET 8` `C#` `Razor` `MySQL` `XUnit` `Jenkins` `Docker` `Prometheus` `Grafana`
+
+[🎥 Watch Demo Video](https://drive.google.com/file/d/1x6rwel4OfuMKxHB58Nx5pQYSKrzvLA1E/view?usp=sharing)
+
+</div>
 
 ---
 
-![Developer GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtnZnUzaWNmbjdpeGo4aXNzNnk2MGU4dzR5aTJxZHBjZnFza2NxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arijhajjaji22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijhajjaji22&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arijhajjaji22&theme=tokyonight" alt="Arij's streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arijhajjaji22&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-💡 *"Building scalable solutions with clean code and innovative thinking"*
+## 🏆 Achievements & Certifications
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arijhajjaji22&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</p>
+
+<div align="center">
+
+| Certificate | Issuer | Link |
+|-------------|--------|------|
+| 🌱 **Spring / Angular Development** | CrocoCoder | [View Certificate](https://drive.google.com/file/d/1Z4R1AFbQzGYGuSAlRgqaMeTVLmdxE-fk/view?usp=sharing) |
+| 🤖 **AI Predictive Maintenance** | ESPRIT | [View Certificate](https://drive.google.com/file/d/1YDb5Vo-LWGmVt-jaIbNRnEnxF_ecwzcc/view?usp=sharing) |
+| 🔍 **AI Anomaly Detection** | ESPRIT | [View Certificate](https://drive.google.com/file/d/19ROoMFbfwOJuM-21tdXH2cLAxo83Oqea/view?usp=drive_link) |
+
+</div>
+
+---
+
+## 💼 Professional Journey
+
+```mermaid
+gantt
+    title Career Timeline
+    dateFormat YYYY-MM
+    section Experience
+    Full Stack Engineer @ Hosinox       :active, 2026-01, 2027-12
+    Full Stack .NET Engineer @ Biram    :done, 2025-03, 2025-07
+    PFE Internship @ Innov-Alliance     :done, 2024-02, 2024-08
+    Software Intern @ PROXI WEB         :done, 2023-07, 2023-09
+    section Education
+    Software Engineering @ ESPRIT       :done, 2021-09, 2024-06
+```
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 Current Role
+**Full Stack Engineer**  
+*Hosinox Company | Jan 2026 - Present*
+
+- Enterprise ERP development
+- Spring Boot & Angular stack
+- Microservices architecture
+- Real-time features with WebSockets
+
+</td>
+<td width="50%">
+
+### 🎓 Education
+**Software Engineering Degree**  
+*ESPRIT | 2021 - 2024*
+
+- Focus on Full-Stack Development
+- DevOps & CI/CD practices
+- AI & Machine Learning applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+```text
+Java           12 hrs 30 mins  ███████████░░░░░░░   45.2%
+TypeScript     8 hrs 15 mins   ███████▒░░░░░░░░░░   29.8%
+C#             4 hrs 20 mins   ████░░░░░░░░░░░░░░   15.7%
+Docker         1 hr 30 mins    █▒░░░░░░░░░░░░░░░░    5.4%
+YAML           1 hr 5 mins     █░░░░░░░░░░░░░░░░░    3.9%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td>
+
+### 🔨 Working On
+- 🏗️ Enterprise ERP System
+- 🤖 AI-Powered Features
+- 📊 Real-time Analytics Dashboard
+
+</td>
+<td>
+
+### 📚 Learning
+- ☸️ Advanced Kubernetes
+- 🧠 Spring AI Framework
+- 🎨 System Design Patterns
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 Developer Insights
+
+<details>
+<summary><b>🧠 My Development Philosophy</b></summary>
+<br>
+
+```typescript
+class DeveloperMindset {
+    principles = {
+        code: "Clean, Scalable, Maintainable",
+        testing: "Test-Driven Development",
+        deployment: "Continuous Integration & Delivery",
+        learning: "Never Stop Growing",
+        collaboration: "Communication is Key"
+    };
+    
+    approach() {
+        return `
+            1. Understand the problem deeply
+            2. Design before coding
+            3. Write tests first
+            4. Refactor continuously
+            5. Document thoroughly
+            6. Deploy with confidence
+        `;
+    }
+}
+```
+
+</details>
+
+<details>
+<summary><b>🛠️ Development Setup</b></summary>
+<br>
+
+**💻 Hardware:**
+- Processor: Intel Core i7
+- RAM: 32GB DDR4
+- SSD: 1TB NVMe
+
+**⚙️ Software:**
+- OS: Windows 11 / Ubuntu 22.04 (Dual Boot)
+- IDE: IntelliJ IDEA Ultimate, VS Code
+- Terminal: Windows Terminal with Oh My Posh
+- Browser: Chrome with Dev Tools
+
+**🎨 VS Code Extensions:**
+- Spring Boot Extension Pack
+- Angular Language Service
+- Docker Extension
+- GitLens
+- REST Client
+- Prettier
+
+</details>
+
+---
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/arij-hajjaji">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:arijhajjaji2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-arijhajjaji">
+    <img src="https://img.shields.io/badge/Portfolio-Check_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<div align="center">
+
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+### Show some ❤️ by starring some of my repositories!
+
+</div>
