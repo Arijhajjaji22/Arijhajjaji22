@@ -330,9 +330,9 @@ class DeveloperMindset {
 - SSD: 1TB NVMe
 
 **⚙️ Software:**
-- OS: Windows 11 / Ubuntu 22.04 (Dual Boot)
+- OS: Windows 10 
 - IDE: IntelliJ IDEA Ultimate, VS Code
-- Terminal: Windows Terminal with Oh My Posh
+- Terminal: Windows
 - Browser: Chrome with Dev Tools
 
 **🎨 VS Code Extensions:**
