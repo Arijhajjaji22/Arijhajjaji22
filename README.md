@@ -10,12 +10,19 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1bDNucHdlczBxYmxmajg2bmRxeHpsMHM0MGs0ZGNncmQzODZ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="400"/>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/arij-hajjaji"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:arijhajjaji2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://portfolio-arijhajjajivercelapp.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Arijhajjaji22&style=for-the-badge&color=blueviolet"/>
-</p>
+<div align="center">
+
+### 📬 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arij-hajjaji)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-arijhajjajivercelapp.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-arijhajjaji2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arijhajjaji2@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Arijhajjaji22&style=for-the-badge&color=blueviolet&label=Profile+Views)
+
+**📍 Location:** Tunis, Tunisia | **📞 Phone:** +216 51 592 864
+
+</div>
 
 ---
 
