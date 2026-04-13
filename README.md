@@ -2,8 +2,8 @@
 
 ![Hey GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1bDNucHdlczBxYmxmajg2bmRxeHpsMHM0MGs0ZGNncmQzODZ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif)
 
-**Ingénieure en informatique, passionnée par le développement web full-stack et DevOps.**  
-Motivée par les défis techniques et l'innovation, avec une expérience sur des projets .NET, Spring Boot et Angular.
+**Computer Engineer, passionate about full-stack web development and DevOps.**  
+Motivated by technical challenges and innovation, with experience in .NET, Spring Boot, and Angular projects.
 
 📍 Tunis | 📫 arijhajjaji2@gmail.com
 
@@ -69,17 +69,17 @@ Motivée par les défis techniques et l'innovation, avec une expérience sur des
 
 ## 📂 Projects
 
-### 🚀 Kafka with Spring Boot Reactive WebFlux *(nouveau)*
-- **Tech** : Java 17, Spring Boot 3.x, Apache Kafka 4.x, WebFlux, Maven
+### 🚀 Kafka with Spring Boot Reactive WebFlux *(new)*
+- **Tech**: Java 17, Spring Boot 3.x, Apache Kafka 4.x, WebFlux, Maven
 - Messaging platform with producer/consumer architecture and real-time Wikimedia stream processing
 - [Repository](https://github.com/Arijhajjaji22/Kafka-with-Spring-Boot-Reactive-WebFlux-)
 
-### 🏢 PFE : Plateforme de recrutement
-- **Tech** : .NET 8, Razor, C#, MySQL, HTML, CSS, JS, DevOps (Docker, Jenkins, Prometheus, Grafana)
+### 🏢 Final Year Project: Recruitment Platform
+- **Tech**: .NET 8, Razor, C#, MySQL, HTML, CSS, JS, DevOps (Docker, Jenkins, Prometheus, Grafana)
 - [Repository](https://github.com/Arijhajjaji22/RecruitmentPlatform-PFE) | [Demo Video](https://drive.google.com/file/d/1x6rwel4OfuMKxHB58Nx5pQYSKrzvLA1E/view?usp=sharing)
 
-### 🏫 Gestion scolaire digitalisée
-- **Tech** : .NET 8, C#, SQL Server, Razor, HTML, CSS, JS, Git
+### 🏫 Digitalized School Management
+- **Tech**: .NET 8, C#, SQL Server, Razor, HTML, CSS, JS, Git
 - [Repository](https://github.com/Arijhajjaji22/SchoolManagementSystem)
 
 ---
@@ -87,28 +87,27 @@ Motivée par les défis techniques et l'innovation, avec une expérience sur des
 ## 🎓 Certifications
 
 <a href="https://drive.google.com/file/d/1Z4R1AFbQzGYGuSAlRgqaMeTVLmdxE-fk/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Spring%20%2F%20Angular-Voir%20le%20certif-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=6DB33F&color=808080" />
+  <img src="https://img.shields.io/badge/Spring%20%2F%20Angular-View%20Certificate-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=6DB33F&color=808080" />
 </a>
 
 <a href="https://drive.google.com/file/d/1YDb5Vo-LWGmVt-jaIbNRnEnxF_ecwzcc/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/AI%20Predictive%20Maintenance-Voir%20le%20certif-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=FF6F00&color=808080" />
+  <img src="https://img.shields.io/badge/AI%20Predictive%20Maintenance-View%20Certificate-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=FF6F00&color=808080" />
 </a>
 
 <a href="https://drive.google.com/file/d/19ROoMFbfwOJuM-21tdXH2cLAxo83Oqea/view?usp=drive_link" target="_blank">
-  <img src="https://img.shields.io/badge/AI%20Anomaly%20Detection-Voir%20le%20certif-4A90E2?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=4A90E2&color=808080" />
+  <img src="https://img.shields.io/badge/AI%20Anomaly%20Detection-View%20Certificate-4A90E2?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=4A90E2&color=808080" />
 </a>
 
 ---
 
 ## 🧠 Soft Skills
 
-- 💡 Esprit analytique et sens du détail
-- 📚 Forte capacité d'apprentissage
-- 🤝 Travail d'équipe & communication
-- 🛠️ Résolution de problèmes
-- 🚀 Approche orientée résultats
+- 💡 Analytical mindset and attention to detail
+- 📚 Strong learning ability
+- 🤝 Teamwork & communication
+- 🛠️ Problem-solving
+- 🚀 Results-oriented approach
 
 ---
-
 
 ![Developer GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtnZnUzaWNmbjdpeGo4aXNzNnk2MGU4dzR5aTJxZHBjZnFza2NxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
