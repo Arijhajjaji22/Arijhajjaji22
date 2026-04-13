@@ -132,7 +132,7 @@ const arij = {
 <div align="center">
 
 ### 🤖 Aura: Intelligent AI Assistant
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arijhajjaji22&repo=aura-ai-assistant&theme=tokyonight)](https://github.com/Arijhajjaji22/aura-ai-assistant)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arijhajjaji22&repo=aura-chatbot&theme=tokyonight)](https://github.com/Arijhajjaji22/aura-chatbot)
 
 **Full-stack AI assistant with microservices architecture**
 - 🔐 RSA JWT Authentication & Spring Security
@@ -147,7 +147,7 @@ const arij = {
 ---
 
 ### 📋 TaskFlow: Real-Time Collaborative Kanban
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arijhajjaji22&repo=taskflow-kanban&theme=tokyonight)](https://github.com/Arijhajjaji22/taskflow-kanban)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arijhajjaji22&repo=Taskflow-n8n&theme=tokyonight)](https://github.com/Arijhajjaji22/Taskflow-n8n)
 
 **Event-driven Kanban board with real-time collaboration**
 - 🔒 OAuth2/Keycloak Authentication
@@ -162,7 +162,8 @@ const arij = {
 ---
 
 ### 💻 AI Code Assistant Pro — VS Code Extension
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arijhajjaji22&repo=ai-code-assistant-vscode&theme=tokyonight)](https://github.com/Arijhajjaji22/ai-code-assistant-vscode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arijhajjaji22&repo=AI-Assistant-Pro&theme=tokyonight)](https://github.com/Arijhajjaji22/AI-Assistant-Pro)
+
 
 **VS Code plugin for intelligent code analysis & refactoring**
 - 🐛 Real-time Bug Detection
@@ -191,23 +192,6 @@ const arij = {
 [🎥 Watch Demo Video](https://drive.google.com/file/d/1x6rwel4OfuMKxHB58Nx5pQYSKrzvLA1E/view?usp=sharing)
 
 </div>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arijhajjaji22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijhajjaji22&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arijhajjaji22&theme=tokyonight" alt="Arij's streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arijhajjaji22&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
