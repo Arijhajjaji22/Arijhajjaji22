@@ -164,13 +164,7 @@ const arij = {
 | [AI Predictive Maintenance](https://drive.google.com/file/d/1YDb5Vo-LWGmVt-jaIbNRnEnxF_ecwzcc/view?usp=sharing) | ESPRIT |
 | [AI Anomaly Detection](https://drive.google.com/file/d/19ROoMFbfwOJuM-21tdXH2cLAxo83Oqea/view?usp=drive_link) | ESPRIT |
 
----
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arijhajjaji22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
 
 ---
 
