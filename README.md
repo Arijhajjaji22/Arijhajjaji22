@@ -2,20 +2,24 @@
 
 # Arij Hajjaji
 
-**Full Stack Engineer · Microservices · AI Integration · DevOps**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;Spring+Boot+%7C+Angular+%7C+.NET;AI+%26+Microservices+Enthusiast;Building+Scalable+Solutions)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arij--hajjaji-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arij-hajjaji)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-arijhajjajivercelapp.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-arijhajjaji2@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arijhajjaji2@gmail.com)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=Arijhajjaji22&style=flat-square&color=blueviolet&label=Profile+Views)](https://github.com/Arijhajjaji22)
 
 📍 Tunis, Tunisia
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1bDNucHdlczBxYmxmajg2bmRxeHpsMHM0MGs0ZGNncmQzODZ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="380"/>
 
 </div>
 
 ---
 
 ## About
+
+<img align="right" alt="Coding" width="360" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtnZnUzaWNmbjdpeGo4aXNzNnk2MGU4dzR5aTJxZHBjZnFza2NxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 Full Stack Engineer at **Hosinox Company**, building enterprise ERP systems and scalable microservices architectures. Passionate about clean code, AI integration, and automated delivery pipelines.
 
@@ -28,6 +32,8 @@ const arij = {
   principle: "Clean code is not written by following a set of rules."
 };
 ```
+
+<br clear="right"/>
 
 ---
 
