@@ -7,9 +7,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arij--hajjaji-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arij-hajjaji)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-arijhajjajivercelapp.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-arijhajjaji2@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arijhajjaji2@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Arijhajjaji22&style=flat-square&color=blueviolet&label=Profile+Views)](https://github.com/Arijhajjaji22)
 
-📍 Tunis, Tunisia
+
+📍 Tunisia
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1bDNucHdlczBxYmxmajg2bmRxeHpsMHM0MGs0ZGNncmQzODZ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="380"/>
 
