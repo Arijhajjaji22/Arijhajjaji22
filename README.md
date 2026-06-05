@@ -106,7 +106,7 @@ const arij = {
 
 <details open>
 <summary><b>🐳 DevOps & Cloud</b></summary>
-<br>
+<br> 
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -220,19 +220,7 @@ const arij = {
 
 ---
 
-## 💼 Professional Journey
 
-```mermaid
-gantt
-    title Career Timeline
-    dateFormat YYYY-MM
-    section Experience
-    Full Stack Engineer @ Hosinox       :active, 2026-01, 2027-12
-    Full Stack .NET Engineer @ Biram    :done, 2025-03, 2025-07
-    PFE Internship @ Innov-Alliance     :done, 2024-02, 2024-08
-    Software Intern @ PROXI WEB         :done, 2023-07, 2023-09
-    section Education
-    Software Engineering @ ESPRIT       :done, 2021-09, 2024-06
 ```
 
 <table>
@@ -244,7 +232,6 @@ gantt
 *Hosinox Company | Jan 2026 - Present*
 
 - Enterprise ERP development
-- Spring Boot & Angular stack
 - Microservices architecture
 - Real-time features with WebSockets
 
