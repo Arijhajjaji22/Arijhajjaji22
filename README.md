@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer;Spring+Boot+%7C+Angular+%7C+.NET;AI+%26+Microservices+Enthusiast;Building+Scalable+Solutions)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arij--hajjaji-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arij-hajjaji)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-arijhajjajivercelapp.vercel.app/)
+
 [![Email](https://img.shields.io/badge/Email-arijhajjaji2@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arijhajjaji2@gmail.com)
 
 
