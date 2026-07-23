@@ -148,7 +148,7 @@ const arij = {
 
 | | |
 |---|---|
-| **Full Stack Engineer** — Hosinox Company | Jan 2026 – Present |
+| **Full Stack Engineer** — Hosinox Company | Jan 2025 – Present |
 | Enterprise ERP development, microservices architecture, real-time WebSocket features | |
 | **Software Engineering Degree** — ESPRIT | 2021 – 2024 |
 | Full-Stack Development · DevOps & CI/CD · AI & Machine Learning | |
