@@ -27,8 +27,7 @@ Full Stack Engineer at **Hosinox Company**, building enterprise ERP systems and 
 const arij = {
   role:      "Full Stack Engineer @ Hosinox Company",
   expertise: ["Microservices", "DevOps", "AI Integration"],
-  building:  "Enterprise ERP with Spring Boot & Angular",
-  learning:  ["Spring AI", "Advanced Kubernetes", "System Design"],
+  building:  "Enterprise ERP ,
   principle: "Clean code is not written by following a set of rules."
 };
 ```
